@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1112,
-    "timeDay": 1112,
-    "timeWeek": 1112,
-    "timeMonth": 1112,
-    "timeYear": 1112,
+    "time": 914,
+    "timeDay": 914,
+    "timeWeek": 914,
+    "timeMonth": 914,
+    "timeYear": 914,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://qanote.app/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/qanote.app.ico",
     "slug": "qa-note-api",
-    "status": "down",
-    "uptime": "26.38%",
-    "uptimeDay": "26.38%",
-    "uptimeWeek": "26.38%",
-    "uptimeMonth": "26.38%",
-    "uptimeYear": "26.38%",
-    "time": 477,
-    "timeDay": 477,
-    "timeWeek": 477,
-    "timeMonth": 477,
-    "timeYear": 477,
+    "status": "up",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
+    "time": 388,
+    "timeDay": 388,
+    "timeWeek": 388,
+    "timeMonth": 388,
+    "timeYear": 388,
     "dailyMinutesDown": {
-      "2026-07-24": 1
+      "2026-07-24": 200
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://qanote.app/api/extension/health",
     "icon": "https://icons.duckduckgo.com/ip3/qanote.app.ico",
     "slug": "qa-note-extension-api",
-    "status": "down",
-    "uptime": "33.97%",
-    "uptimeDay": "33.97%",
-    "uptimeWeek": "33.97%",
-    "uptimeMonth": "33.97%",
-    "uptimeYear": "33.97%",
-    "time": 403,
-    "timeDay": 403,
-    "timeWeek": 403,
-    "timeMonth": 403,
-    "timeYear": 403,
+    "status": "up",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
+    "time": 397,
+    "timeDay": 397,
+    "timeWeek": 397,
+    "timeMonth": 397,
+    "timeYear": 397,
     "dailyMinutesDown": {
-      "2026-07-24": 0
+      "2026-07-24": 200
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://qanote.app/api/mcp/health",
     "icon": "https://icons.duckduckgo.com/ip3/qanote.app.ico",
     "slug": "qa-note-mcp",
-    "status": "down",
-    "uptime": "52.50%",
-    "uptimeDay": "52.50%",
-    "uptimeWeek": "52.50%",
-    "uptimeMonth": "52.50%",
-    "uptimeYear": "52.50%",
-    "time": 398,
-    "timeDay": 398,
-    "timeWeek": 398,
-    "timeMonth": 398,
-    "timeYear": 398,
+    "status": "up",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
+    "time": 356,
+    "timeDay": 356,
+    "timeWeek": 356,
+    "timeMonth": 356,
+    "timeYear": 356,
     "dailyMinutesDown": {
-      "2026-07-24": 0
+      "2026-07-24": 199
     }
   }
 ]
