@@ -1,7 +1,7 @@
 url: https://qanote.app/api/health
-status: down
-code: 503
-responseTime: 330
-lastUpdated: 2026-08-09T03:20:42.209Z
+status: up
+code: 200
+responseTime: 494
+lastUpdated: 2026-08-09T13:08:51.084Z
 startTime: 2026-07-24T02:31:29.227Z
 generator: Upptime <https://github.com/upptime/upptime>
