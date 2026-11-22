@@ -1,7 +1,7 @@
 url: https://qanote.app/api/mcp/health
-status: up
-code: 200
-responseTime: 462
-lastUpdated: 2026-11-22T02:54:55.944Z
+status: down
+code: 503
+responseTime: 356
+lastUpdated: 2026-11-22T15:33:23.481Z
 startTime: 2026-07-24T02:32:00.120Z
 generator: Upptime <https://github.com/upptime/upptime>
